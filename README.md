@@ -13,5 +13,5 @@ Open [http://localhost:5173](http://localhost:5173) with your browser to see the
 - Open yours code editor.
 - Select the directory where you want to clone the project.
 - Use this commands in terminal:
-  - `git clone https://github.com/Vitalii-Belostotskiy/my-react-flow-app.git`
+  - `git clone https://github.com/Vitalii-Belostotskiy/react-flow-app.git`
   - You need to have node version v20.17.0
